@@ -1,9 +1,5 @@
-**analise-exploratoria-vendas:**
-```
-🛒 Pipeline de Análise de Vendas | Python + Power BI
-ETL completo com segmentação VIP (ticket 3x superior) e dashboard interativo
-#Python #Pandas #PowerBI #DataAnalytics
-```
+# 🐍 EDA - Análise de Vendas com Python
+Exploração de dados de varejo com Pandas, identificação de padrões e insights de negócio
 
 
 ## 📊 Resultado da Análise
