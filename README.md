@@ -1,5 +1,10 @@
-# analise-exploratoria-vendas
-Script de Análise Exploratória de Dados (EDA) focado em performance de vendas, sazonalidade e segmentação de clientes (VIP vs Não-VIP), utilizando Python e Pandas.
+**analise-exploratoria-vendas:**
+```
+🛒 Pipeline de Análise de Vendas | Python + Power BI
+ETL completo com segmentação VIP (ticket 3x superior) e dashboard interativo
+#Python #Pandas #PowerBI #DataAnalytics
+```
+
 
 ## 📊 Resultado da Análise
 Abaixo, a distribuição de vendas por categoria gerada pelo script:
